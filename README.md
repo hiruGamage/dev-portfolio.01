@@ -54,7 +54,7 @@ You can easily customize the project by:
 ## 📬 Contact
   
 - GitHub: [GitHub](https://github.com/hirugamage)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
+
 
 ---
 
